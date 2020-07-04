@@ -22,7 +22,7 @@ Utilizando o gerenciador de pacotes pip, podemos instalar o ambiente virtual do 
 user@linux:~$ pip --version
 ```
 
-[//]: # (TODO add terminal img)
+![pip --version](images/images/pip_version.png)
 
 Para instalar o pipenv
 
@@ -30,7 +30,7 @@ Para instalar o pipenv
 user@linux:~$ pip install --user pipenv
 ```
 
-[//]: # (TODO add terminal img)
+![pip install --user pipenv](images/pip_install_pipenv.png)
 
 É possível checar a versão do pipenv
 
@@ -38,7 +38,7 @@ user@linux:~$ pip install --user pipenv
 user@linux:~$ pipenv --version
 ```
 
-[//]: # (TODO add terminal img)
+![pipenv --version](images/images/pipenv_version.png)
 
 ### pytest
 
