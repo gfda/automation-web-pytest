@@ -12,6 +12,38 @@ O projeto foi estruturado utilizando o padrão de projetos Page Object Model (PO
 
 Será necessário fazer a instalação de algumas ferramentas.
 
+### pipenv
+
+Utilizando o gerenciador de pacotes pip, podemos instalar o ambiente virtual do Python.
+
+É importante garantir que o pip está instalado corretamente
+
+```console
+user@linux:~$ pip --version
+```
+
+[//]: # (TODO add terminal img)
+
+Para instalar o pipenv
+
+```console
+user@linux:~$ pip install --user pipenv
+```
+
+[//]: # (TODO add terminal img)
+
+É possível checar a versão do pipenv
+
+```console
+user@linux:~$ pipenv --version
+```
+
+[//]: # (TODO add terminal img)
+
+### pytest
+
+### Selenium WebDriver
+
 ## Autor
 
 [Gustavo Dias A.](https://www.linkedin.com/in/gustavo-dias-alexandre-543568157/)
