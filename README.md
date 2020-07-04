@@ -22,7 +22,7 @@ Utilizando o gerenciador de pacotes pip, podemos instalar o ambiente virtual do 
 user@linux:~$ pip --version
 ```
 
-![pip --version](images/images/pip_version.png)
+![pip --version](images/pip_version.png)
 
 Para instalar o pipenv
 
@@ -38,7 +38,17 @@ user@linux:~$ pip install --user pipenv
 user@linux:~$ pipenv --version
 ```
 
-![pipenv --version](images/images/pipenv_version.png)
+![pipenv --version](images/pipenv_version.png)
+
+Com o ambiente virtual instalado, basta iniciar o pipenv
+
+```console
+user@linux:~$ pipenv install
+```
+
+![pipenv install](images/pipenv_install_ini.png)
+
+Após a execução do comando, deverão ser criados os arquivos de configuração **Pipfile** e **Pipfile.lock**.
 
 ### pytest
 
