@@ -16,7 +16,7 @@ Será necessário fazer a instalação de algumas ferramentas.
 
 Utilizando o gerenciador de pacotes pip, podemos instalar o ambiente virtual do Python.
 
-É importante garantir que o pip está instalado corretamente
+É importante garantir que o pip esteja instalado corretamente
 
 ```console
 user@linux:~$ pip --version
@@ -51,6 +51,16 @@ user@linux:~$ pipenv install
 Após a execução do comando, deverão ser criados os arquivos de configuração **Pipfile** e **Pipfile.lock**.
 
 ### pytest
+
+Com o ambiente virtual instalado e devidamente configurado, podemos instalar o framework que será utilizado para a execução dos testes, o pytest.
+
+O comando irá instalar o pytest apenas no ambiente virtual
+
+```console
+user@linux:~$ pipenv install pytest
+```
+
+![pipenv install pytest](images/pipenv_install_pytest.png)
 
 ### Selenium WebDriver
 
