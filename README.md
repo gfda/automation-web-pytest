@@ -64,6 +64,14 @@ user@linux:~$ pipenv install pytest
 
 ### Selenium WebDriver
 
+O selenium poderá ser instalado dentro do próprio ambiente virtual utilizado durante este setup
+
+```console
+user@linux:~$ pipenv install selenium
+```
+
+![pipenv install selenium](images/pipenv_install_selenium.png)
+
 ## Autor
 
 [Gustavo Dias A.](https://www.linkedin.com/in/gustavo-dias-alexandre-543568157/)
