@@ -78,4 +78,4 @@ user@linux:~$ pipenv install selenium
 
 ## License
 
-Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/).
+Este projeto está sob a licença [MIT](LICENSE).
