@@ -74,10 +74,10 @@ user@linux:~$ pipenv install selenium
 
 ## Recursos
 
-[the-internet](https://the-internet.herokuapp.com/)
-[pytest](https://docs.pytest.org/en/latest/)
-[Selenium-Python](https://selenium-python.readthedocs.io/)
-[Page Object](https://martinfowler.com/bliki/PageObject.html)
+* [the-internet](https://the-internet.herokuapp.com/)
+* [pytest](https://docs.pytest.org/en/latest/)
+* [Selenium-Python](https://selenium-python.readthedocs.io/)
+* [Page Object](https://martinfowler.com/bliki/PageObject.html)
 
 ## Autor
 
