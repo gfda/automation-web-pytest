@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Estudo de automação de testes de aceitação (end-to-end), utilizando Selenium WebDriver e Pytest Framework.
+Estudo de automação de testes de aceitação (end-to-end) no site The-Internet, utilizando Selenium WebDriver e Pytest Framework.
 
 O projeto foi estruturado utilizando o padrão de projetos Page Object Model (POM).
 
@@ -71,6 +71,13 @@ user@linux:~$ pipenv install selenium
 ```
 
 ![pipenv install selenium](images/pipenv_install_selenium.png)
+
+## Recursos
+
+[the-internet](https://the-internet.herokuapp.com/)
+[pytest](https://docs.pytest.org/en/latest/)
+[Selenium-Python](https://selenium-python.readthedocs.io/)
+[Page Object](https://martinfowler.com/bliki/PageObject.html)
 
 ## Autor
 
