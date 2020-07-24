@@ -1,0 +1,9 @@
+.pytest_cache
+.vscode
+.pyc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Unit test / coverage reports
+.coverage
+.cache
