@@ -72,6 +72,20 @@ user@linux:~$ pipenv install selenium
 
 ![pipenv install selenium](images/pipenv_install_selenium.png)
 
+## Testando
+
+Para executar os testes é necessário chamar o pytest, este comando irá executar toda a suite de testes
+
+```console
+user@linux:~$ pipenv run python -m pytest
+```
+
+Se deseja executar casos de testes específicos, basta informar o caso
+
+```console
+user@linux:~$ pipenv run python -m pytest tests/<test_case>
+```
+
 ## Recursos
 
 * [the-internet](https://the-internet.herokuapp.com/)
