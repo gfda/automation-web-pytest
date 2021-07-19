@@ -96,10 +96,11 @@ user@linux:~$ pipenv lock
 
 ## Recursos
 
-* [the-internet](https://the-internet.herokuapp.com/)
-* [pytest](https://docs.pytest.org/en/latest/)
-* [Selenium-Python](https://selenium-python.readthedocs.io/)
 * [Page Object](https://martinfowler.com/bliki/PageObject.html)
+* [pytest](https://docs.pytest.org/en/latest/)
+* [pipenv](https://pipenv.pypa.io/en/latest/)
+* [Selenium-Python](https://selenium-python.readthedocs.io/)
+* [the-internet](https://the-internet.herokuapp.com/)
 
 ## Autor
 
