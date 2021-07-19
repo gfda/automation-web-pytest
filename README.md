@@ -12,6 +12,14 @@ O projeto foi estruturado utilizando o padrão de projetos Page Object Model (PO
 
 Será necessário fazer a instalação de algumas ferramentas.
 
+### Dependências do Projeto
+
+Instale todas as dependências do projeto
+
+```console
+user@linux:~$ pip install -r requirements.txt
+```
+
 ### pipenv
 
 Utilizando o gerenciador de pacotes pip, podemos instalar o ambiente virtual do Python.
