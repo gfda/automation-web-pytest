@@ -93,6 +93,7 @@ Para gerar/atualizar o arquivo de dependências do projeto (*.lock*)
 ```console
 user@linux:~$ pipenv lock
 ```
+
 ![pipenv lock](images/pipenv_lock.png)
 
 ## Recursos
