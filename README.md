@@ -12,14 +12,6 @@ O projeto foi estruturado utilizando o padrão de projetos Page Object Model (PO
 
 Será necessário fazer a instalação de algumas ferramentas.
 
-### Dependências do Projeto
-
-Instale todas as dependências do projeto
-
-```console
-user@linux:~$ pip install -r requirements.txt
-```
-
 ### pipenv
 
 Utilizando o gerenciador de pacotes pip, podemos instalar o ambiente virtual do Python.
@@ -92,6 +84,14 @@ Se deseja executar casos de testes específicos, basta informar o caso
 
 ```console
 user@linux:~$ pipenv run python -m pytest tests/<test_case>
+```
+
+## Dependências
+
+Para gerar/atualizar o arquivo de dependências do projeto (*.lock*)
+
+```console
+user@linux:~$ pipenv lock
 ```
 
 ## Recursos
