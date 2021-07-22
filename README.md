@@ -10,9 +10,9 @@ O projeto foi estruturado utilizando o padrão de projetos Page Object Model (PO
 
 ### Instalação
 
-Será necessário fazer a instalação de algumas ferramentas.
+Para iniciar o projeto, é necessário fazer a instalação de algumas ferramentas.
 
-### pipenv
+### *pipenv*
 
 Utilizando o gerenciador de pacotes pip, podemos instalar o ambiente virtual do Python.
 
@@ -50,7 +50,7 @@ user@linux:~$ pipenv install
 
 Após a execução do comando, deverão ser criados os arquivos de configuração **Pipfile** e **Pipfile.lock**.
 
-### pytest
+### *pytest*
 
 Com o ambiente virtual instalado e devidamente configurado, podemos instalar o framework que será utilizado para a execução dos testes, o pytest.
 
